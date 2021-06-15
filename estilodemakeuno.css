@@ -1,0 +1,78 @@
+#nave
+{
+    
+    background-color: rgb(216, 38, 74);
+}
+#sub
+{
+   
+    color: rgb(223, 39, 131);
+   
+  
+    text-align: justify;
+
+}
+#parra
+{
+    background-color: lightgray;
+    padding: 20px;
+}
+#subti
+{
+    background-color:rgb(109, 3, 158);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    width: 420px;
+}
+#texto{
+    background-color: lightgray;
+
+    width: 10cm;
+
+    text-align: justify;
+
+    float: right;
+
+padding: 20px;
+}
+
+#gamers
+{
+    background-color: rgb(109, 3, 158);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    width: 9cm;
+    height: 1cm;
+padding: 9px;
+
+  
+   
+}
+#parrauno
+{
+    background-color: lightgray;
+padding: 20px;
+}
+
+#logo
+{
+    background-color: rgb(16, 127, 192);
+    height: 100px;
+    padding-top: 20px;
+}
+#pacman
+{
+    padding-top: 20px;
+}
+#en
+{
+    background-color: rgb(16, 127, 192);
+    padding: 40px;
+    color: rgb(255, 251, 246);
+    
+}
+#dos
+{
+    padding: 50px;
+    background-color: lightgray;
+}

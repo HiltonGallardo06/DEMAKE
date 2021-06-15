@@ -1,0 +1,67 @@
+#nave
+{
+    
+    background-color: rgb(216, 38, 74);
+}
+#sub
+{
+   
+    color: rgb(223, 39, 131);
+    
+    
+}
+#gamers
+{
+    background-color: rgb(109, 3, 158);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    
+  
+   
+}
+#parrauno
+{
+    background-color: lightgray;
+   
+    position:static;
+    
+padding: 20px;
+}
+#logo
+{
+    background-color: rgb(16, 127, 192);
+    height: 100px;
+    padding-top: 20px;
+}
+#pacman
+{
+    padding-top: 20px;
+}
+#juegos
+{
+    width: 550px;
+    height: 270px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#vision
+{
+    background-color: rgb(109, 3, 158);
+    color: rgb(255, 255, 255);
+    width: 100px;
+    padding: 10px;
+}
+#mision
+{
+    background-color: rgb(109, 3, 158);
+    color: rgb(255, 255, 255);
+    width: 130px;
+    padding: 10px;
+}
+#subtitulo
+{
+    background-color: rgb(109, 3, 158);
+    color: rgb(255, 255, 255);
+    
+    padding: 10px;
+}
