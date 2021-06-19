@@ -87,3 +87,12 @@ padding: 20px;
 {
     padding-top: 20px;
 }
+#inicio
+{
+    background-color: rgb(16, 127, 192);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: 20px;
+  
+   
+}
